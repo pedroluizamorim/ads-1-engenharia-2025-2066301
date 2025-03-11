@@ -1,7 +1,7 @@
 # 📚 Diário de Engenharia de Software - Pedro Luiz Maciel Jamiswski Amorim
 
 ## 🔍 Introdução às Metodologias de Desenvolvimento de Software  
-(Escreva aqui um breve resumo sobre a importância das metodologias no desenvolvimento de software.)
+Metodologias de desenvolvimento de software são esseniais para organizar e gerenciar projetos, garantindo eficiência e qualidade. Elas variam conforme o objetivo e necessidades do projeto.
 
 ## 📖 Metodologias Tradicionais  
 ### 🛠️ Cascata  
