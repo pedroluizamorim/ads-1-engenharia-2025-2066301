@@ -57,7 +57,7 @@ O Kanban é um método visual para gestão de trabalho, utilizando um quadro dig
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
-GitHub e GitLab são plataformas de hospedagem de código que facilitam o controle de versão usando Git. Elas permitem colaboração em equipe, revisão de código, integração contínua e entrega contínua (CI/CD). Além disso, oferecem funcionalidades como gerenciamento de issues, wikis e projetos, tornando-as essenciais para o desenvolvimento moderno de software.
+GitHub e GitLab são plataformas de hospedagem de código que facilitam o controle de versão usando Git. Kanban se conecta estreitamente com o Github. Elas permitem colaboração em equipe, revisão de código, integração contínua e entrega contínua (CI/CD). Além disso, oferecem funcionalidades como gerenciamento de issues, wikis e projetos, tornando-as essenciais para o desenvolvimento moderno de software.
 
 ### 🎮 Jira / Trello  
 Jira e Trello são ferramentas de gestão de tarefas. O Jira é mais robusto e adequado para equipes que seguem metodologias ágeis como Scrum e Kanban, oferecendo funcionalidades como planejamento de Sprints e relatórios detalhados. Já o Trello é mais simples e visual, ideal para equipes menores ou projetos menos complexos, utilizando quadros e cartões para organização de tarefas.
