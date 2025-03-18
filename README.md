@@ -5,7 +5,7 @@ Metodologias de desenvolvimento de software são esseniais para organizar e gere
 
 ## 📖 Metodologias Tradicionais  
 ### 🛠️ Cascata  
-Modelo linear e sequencial, divide o projeto em fases distindo. Cada fase deve ser concluída antes da próxima, o que torna previsível e menos maleável. Ideal para projetos com requisitos estáveis.
+Modelo linear e sequencial, divide o projeto em fases diferentes. Cada fase deve ser concluída antes da próxima, o que torna previsível e menos maleável. Ideal para projetos com requisitos estáveis.
 
 ### 🌐 Espiral  
 Abordagem interativa com foco na gestão de riscos, divide o projeto em ciclos, onde cada ciclo possui as fases do modelo cascata. Adequada para projetos complexos, onde os requisitos podem evoluir ao longo do tempo.
